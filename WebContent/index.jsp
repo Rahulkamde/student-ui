@@ -15,7 +15,7 @@ div.ex {
 }
 </style>
 <body>
-	<h1>aws cloud</h1>
+	<h1>aws cloud new webhook</h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
