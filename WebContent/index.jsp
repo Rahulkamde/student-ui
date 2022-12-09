@@ -15,7 +15,7 @@ div.ex {
 }
 </style>
 <body>
-	<h1>cloud eksctl new golu hghf xvdgdsgd</h1>
+	<h1>aws cloud</h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
